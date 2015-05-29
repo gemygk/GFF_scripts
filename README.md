@@ -2,7 +2,7 @@ Summary
 ===========
 Script : "extract_GFF3_lines_for_query_ID.pl"
 
-  Extract GFF3 features for given gene-mRNA query file from GFF3 file
+  Extract GFF3 features for given gene->mRNA [match->match_part] query file from GFF3 file
 
 	Usage: perl extract_GFF3_lines_for_query_ID.pl <id.txt[/path/to/id.txt]> <file.gff3[/path/to/file.gff3]>
 
